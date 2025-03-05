@@ -1,4 +1,4 @@
-module github.com/geniussportsgroup/Slist
+module github.com/lrleon/Slist
 
 go 1.21
 
